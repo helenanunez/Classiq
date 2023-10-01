@@ -1,0 +1,2 @@
+Depth: 7
+Harware: aer_simulator
